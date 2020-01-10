@@ -1,0 +1,97 @@
+body {font-family: 'Roboto', sans-serif;
+}
+.container-wrapper {
+    background-color: ;
+
+}
+
+.container-wrapper--blue {
+    background-color: #90caf9;
+    color: black;
+
+}
+
+h1 {
+    background-color: #bbdefb;
+    
+}
+.callout-container {
+    height: 100vh;
+    background: url("../images/back-image.jpg") no-repeat bottom right fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ 
+ 
+}
+
+.about-container {
+
+
+}
+
+.block divider--white {
+background-color: white;
+}
+/*page-header*/
+
+.page-header {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+    
+}
+
+.page-header h2 {
+    margin-top: 0;
+}
+ 
+/*buttons*/
+
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+
+}
+
+.features-container{
+
+}
+
+/*jumbotron*/
+.jumbotron-header {
+    color: black;
+    font-weight: bold;
+
+}
+
+.footer-container {
+    background-color: #e3f2fd;
+}
+
+.feature {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.feature i {
+    margin-bottom: 20px;
+    font-size: 45px;
+    line-height: 45px;
+}
+
+.feature .btn {
+    background-color: white;
+    border-color: white;
+    border-radius: 15px;
+    min-width: 100px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #64b5f6;
+
+}
+
+.p {
+    text-align: center;
+}
