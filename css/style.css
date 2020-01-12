@@ -24,14 +24,11 @@ p.thick {
 }
 
 h1 {
-    background-color:blue;
-    border-color: white;
-    border-radius: 15px;
-    min-width: 100px;
-    font-weight: bold;
-    margin-top: 10px;
+    background-color:#0d47a1;
     color: #64b5f6;
+    text-align: bold;
     }
+    
     .img {
         display: inline;
     }
@@ -79,7 +76,14 @@ background-color: white;
 
 }
 
+Nav {
+    font-weight: bold;
+
+}
+
 .features-container{
+     color: #64b5f6;
+     margin: 0 auto;
 
 }
 
@@ -92,11 +96,17 @@ background-color: white;
 
 .footer-container {
     background-color: #e3f2fd;
+    width: 900px;
+    margin: 0 auto;
+    
+   
 }
 
 .feature {
     text-align: center;
     margin-bottom: 40px;
+     color: #64b5f6;
+    
 }
 
 .feature i {
