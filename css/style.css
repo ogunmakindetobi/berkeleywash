@@ -96,11 +96,9 @@ Nav {
 
 .footer-container {
     background-color: #e3f2fd;
-    width: 900px;
+    width: 100vw;
     margin: 0 auto;
-    
-   
-}
+    }
 
 .feature {
     text-align: center;
@@ -128,4 +126,10 @@ Nav {
 
 .p {
     text-align: center;
+}
+
+.footer-copyright {
+    background-color: #0d47a1;
+    font-weight: bold;
+    color: white;
 }
