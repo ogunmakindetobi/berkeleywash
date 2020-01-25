@@ -17,7 +17,7 @@ p.thick {
     border-radius: 15px;
     min-width: 100px;
     margin-top: 10px;
-    color: #64b5f6;
+    color: white:
     max-height: 0;
 
 }
@@ -43,10 +43,11 @@ h1 {
 }
 
 .media-body {
-    color: #64b5f6;
+    color: white;
 }
 
 .about-container {
+
 
 
 }
@@ -60,12 +61,13 @@ background-color: white;
     margin-bottom: 0;
     border-bottom: 0;
     text-align: center;
+    color: white;
     
 }
 
 .about .page-header {
     margin-bottom: 25px;
-    color: #64b5f6;
+    color: white;
 }
 
 .page-header h2 {
@@ -93,7 +95,7 @@ Nav {
 
 /*jumbotron*/
 .jumbotron-header {
-    color: #64b5f6;
+    color: white;
     font-weight: bold;
 
 }
@@ -115,7 +117,7 @@ Nav {
 h2 {
     border-color: white;
     border-radius: 15px;
-    color: #64b5f6;
+    color: white;
 
 }
 
