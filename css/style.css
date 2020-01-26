@@ -159,3 +159,11 @@ h2 {
     color: #64b5f6;
     margin-bottom: 10px;
 }
+
+.prices {
+    inline-size: center;
+}
+
+.order {
+    color: #64b5f6;
+}
