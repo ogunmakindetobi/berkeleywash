@@ -8,6 +8,7 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 <link rel="stylesheet" href="css/style.css" type="text/css">
+<script src="css/images/index.html"></script>
 </head>
 <body>
 <div class="container-fluid callout-container">
@@ -21,7 +22,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="#" class="btn btn-sm btn-default">Home <span class="sr-only">(current)</span></a>
+      <a class="nav-link" href="index.html" id="home">Home<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -32,7 +33,7 @@
           <a class="dropdown-item" href="#ironing"><span data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Ironing</span></a>
           <a class="dropdown-item" href="#collection & delivery"><span data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">Collection & Delivery</span></a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" class="page-scroll" href="#contact">Contact</a>
+          <a class="dropdown-item" class="page-scroll" href="contact.html">Contact</a>
         </div>
       </li>
     </ul>
@@ -116,37 +117,13 @@
         </section>
         </div>
         </div>
-
 </body>
 
 <!-- Footer -->
 <div class="footer-container">
 <footer class="page-footer font-small blue">
-<div class="contact-form">
-                <h2 id="contact">Contact Us</h2>
-                <form method="post">
-               <div class="row">
-                    <div class="col-md-6">
-                        <div class="form-group">
-                            <input type="text" name="txtName" class="form-control" placeholder="Your Name *" value="">
-                        </div>
-                        <div class="form-group">
-                            <input type="text" name="txtEmail" class="form-control" placeholder="Your Email *" value="">
-                        </div>
-                        <div class="form-group">
-                            <input type="text" name="txtPhone" class="form-control" placeholder="Your Phone Number *" value="">
-                        </div>
-                        <div class="form-group">
-                            <input type="submit" name="btnSubmit" class="btnContact" value="Send Message">
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="form-group">
-                            <textarea name="txtMsg" class="form-control" placeholder="Your Message *" style="width: 100%; height: 150px;"></textarea>
-                        </div>
-                    </div>
-                </div>
-            </form>
+<div class="contact-form" id="contact">
+                <a href="contact.html"  onclick="openPage('Contact', this, 'blue')"></i></a>
 </div>
             <div id="accordion">
   <div class="card">
@@ -201,7 +178,7 @@
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body" id="collection & delivery">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      Easily choose collection & delivery times at your convenience, including late evenings and weekends.
       </div>
     </div>
   </div>
