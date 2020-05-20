@@ -24,6 +24,7 @@ Technologies Used:
 (1)bootsprap
 (2)Googlefont
 (3)fontawesome.com
+(4)JQuery
  
 Testing:
 (1) service section on the nav bar have list item which target and toggule (.washing and drying,ironing, collection and Delivery) for price of the 
@@ -39,3 +40,6 @@ The photos used in this site were obtained from google pictures
 
 Acknowledgements
 I received inspiration for this project from code institue.
+
+Deployment:i deploy through (github)
+Source Master branch.
