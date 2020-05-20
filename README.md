@@ -7,18 +7,18 @@ and closing hours for there service and easy location of there office through si
 
 Features:
 (1)Home
-(2)Service...washing and drying,ironing, collection and Delivery
+(2)Service...(li)washing and drying (li)roning (li) collection and Delivery
 (3)About
 (4)Contact form
+(5)Footer
+(6)Order service now
 
 Existing Features:
 washing and drying-allow users to know about service and price of washing and drying.
 ironing.
 Contact form
 
-Testing:
-service section on the nav bar have list item which target and toggule (.washing and drying,ironing, collection and Delivery) for price of the 
-service.
+
 
 Technologies Used:
 (1)bootsprap
@@ -26,12 +26,14 @@ Technologies Used:
 (3)fontawesome.com
  
 Testing:
-(1) Service can drop down which includeall features like wash and drying,iroining, delivery...
-(2) all service can targets.
-(3) Contact Form is working but the send message bring out erorr by clicking
-(4)map locate the exart direction.
+(1) service section on the nav bar have list item which target and toggule (.washing and drying,ironing, collection and Delivery) for price of the 
+service.
+(2) Contact Form is not working but the send message bring out erorr by clicking
+(3)map locate the office  direction.
+(4)Footer consist website address
+(5)Order now service doesnt work but on the page.
 
-Media
+Media:
 The photos used in this site were obtained from google pictures
 
 
