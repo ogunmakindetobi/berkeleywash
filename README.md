@@ -9,27 +9,27 @@
  This project is interesting and give food details of what the restaurant look like in terms of images display and what service can be provide there.
 
 ## User
-1. As someone living in ireland its very hard to get dry within the house that why i will need a laundry service for my laundry.
+1. For someone living in ireland where the weather is not that great to dry clothes,laundry service is the best option.
 2. The service of laundry can be in different way,some just want to wash and dry, some just want to dry.
-3.  different type of clothes are been watch in some cases its might be like hard clothes like duvet or carpet
+3. Different type of clothes are been watch in some cases its might be like hard clothes like duvet or carpet
 
 User Requirentment
-* Visible images to get the  menu
-* Navigation should make the website easier.
+* Visible images to get the  Home page with click on the navbar at the left side of the webpge
+* Navigation should make the website easier with consist list of Services.
 * Content writtings are display and visible.
-* service inside navbar and the other list for different service
+* Search bar is also displyed in navbar but its not functional.
 
 ## Wireframes
-* i build this site with bootstrap.com, its visible on desktop version and which translated to mobile and tablet version of same design and on other form of screen.
+* i Build this site with bootstrap.com,jQuery  its visible on desktop version and which translated to mobile and tablet version of same design and on other form of screen.
 * i got some code from w3schools.com to complete my project.
 ## Fonts
-* I build my font with google font and its was answome i could get some good out of it.
+* With the help of google font i acheive web styles
 
 
 ## Icons
 
 * I found a visible icons to use and big to make the website look nice 
-* I used the icons from the (fontawesome) from materialize. 
+* I used the icons from the (fontawesome) . 
 * The icons are easy to understand and they provide a visual support to the input fields.
 
 
@@ -42,10 +42,11 @@ User Requirentment
 
 ## Home
 * The Intro section on the home page consists of the image  berkeleywash which is the name of the project.
-Under the service with nav bar appears which consist of more informations on where to visit on the site like contact form and list item of the website 
-The last part of this intro section of the booking button,and the map and the footer.
-
-In the  section is an explanation about the idea about this website.
+Under the service with nav bar appears which consist of more informations on where to visit on the site like contact form and list item of the website and more informative.
+* washing & drying can be click from the navbar and toggle down on the middle of the website.
+* ironing can be click from the navbar and toggle down on the middle of the website.
+* Collection & Delivery can be click from the navbar and toggle down on the middle of the website.
+* Order service now is a Button which does function.
 
 
 ## Design
@@ -58,6 +59,7 @@ In the  section is an explanation about the idea about this website.
  * Navbar
  * Contact form
  * map
+ * images
 
 ## Technologies used. 
 
@@ -65,7 +67,6 @@ In the  section is an explanation about the idea about this website.
 
 1. Html
 2. Css 
-3. Java
 
 
 ## Tools & Libraries For design:
@@ -73,7 +74,6 @@ In the  section is an explanation about the idea about this website.
 2. w3schools
 3. Google fonts
 4. jQuery
-5. emailjs
 
 
 ## Testing
