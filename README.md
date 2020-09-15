@@ -1,5 +1,5 @@
-# Berkeleywash
-# User Experience (UX)
+#  Berkeleywash
+#  User Experience (UX)
 ## User stories. 
 * First Time Visitor Goals. 
 1. Base on laundry website which enable the customers to access on the price and the quality of the laundry.  
@@ -14,7 +14,7 @@
 2. The service of laundry can be in different way,some just want to wash and dry, some just want to dry.
 3. Different type of clothes are been watch in some cases its might be like hard clothes like duvet or carpet
 
-User Requirentment
+## User Requirentment
 * Visible images to get the  Home page with click on the navbar at the left side of the webpge
 * Navigation should make the website easier with consist list of Services.
 * Content writtings are display and visible.
