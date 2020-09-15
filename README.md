@@ -1,6 +1,6 @@
 # berkeleywash
-## User Experience (UX)
-# User stories. 
+# User Experience (UX)
+## User stories. 
 * First Time Visitor Goals. 
 1. Base on laundry website which enable the customers to access on the price and the quality of the laundry.  
 2. Its make it easier for the customers to have idea  of price for the laundry service.
