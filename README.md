@@ -1,4 +1,4 @@
-# berkeleywash
+# Berkeleywash
 # User Experience (UX)
 ## User stories. 
 * First Time Visitor Goals. 
@@ -23,6 +23,7 @@ User Requirentment
 ## Wireframes
 * i Build this site with bootstrap.com,jQuery  its visible on desktop version and which translated to mobile and tablet version of same design and on other form of screen.
 * i got some code from w3schools.com to complete my project.
+
 ## Fonts
 * With the help of google font i acheive web styles
 
