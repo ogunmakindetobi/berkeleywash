@@ -25,7 +25,6 @@
 
 ## Wireframes
 * i Build this site with bootstrap.com,jQuery  its visible on desktop version and which translated to mobile and tablet version of same design and on other form of screen.
-* i got some code from w3schools.com to complete my project.
 
 ## Fonts
 * With the help of google font i acheive web styles
@@ -66,6 +65,7 @@ Under the service with nav bar appears which consist of more informations on whe
  * map
  * images
 
+
 ## Technologies used. 
 
 ### Languages Used
@@ -88,7 +88,8 @@ I asked some of my friends and family members to test my project. So would get s
 * Test user 1:
 
 1.  The text of the "navbar" section is a bit too long, and it conflicts with the simple feel the rest of the website tries to give. Solution: I reduce the margin the "Navbar" so its fit in when view on smaller screen.
-
+* Testing - Tested the site by doing on different browser
+* Result - The site did not respond due its only consit html and css is a simple website
 
 ## Deployment 🚀
 --- GitHub Pages. 
@@ -100,7 +101,7 @@ I asked some of my friends and family members to test my project. So would get s
  
   
 1. Log in to GitHub and locate the GitHub Repository
-2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+2. At the top of the Repository (not top of page), locate the "Settings".
 3. Alternatively Click Here for a GIF demonstrating the process starting from Step 2.
 4. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 5. Under "Source", click the dropdown called "None" and select "Master Branch".
@@ -112,3 +113,6 @@ I asked some of my friends and family members to test my project. So would get s
 
 its will push and then go in to the github settings and went down to Source and click on Branch Master and click on Master.
 Then the site will be publish.
+
+## acknowlagement
+Code institute
