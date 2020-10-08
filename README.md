@@ -10,7 +10,7 @@
 3. Project enable customers to know the location of the laundry.
 4. Project enable customers to call or contact the laundry if there are more question to ask.
 
- This project is interesting and give food details of what the restaurant look like in terms of images display and what service can be provide there.
+* This website is a simple website to display a local lundry activites and how functional is useful for the community.
 
 ## User
 1. For someone living in ireland where the weather is not that great to dry clothes,laundry service is the best option.
@@ -18,7 +18,7 @@
 3. Different type of clothes are been watch in some cases its might be like hard clothes like duvet or carpet
 
 ## User Requirentment
-* Visible images to get the  Home page with click on the navbar at the left side of the webpge
+* Visible images to get the  Home page with click on the navbar at the left side of the webpage
 * Navigation should make the website easier with consist list of Services.
 * Content writtings are display and visible.
 * Search bar is also displyed in navbar but its not functional.
@@ -115,4 +115,4 @@ its will push and then go in to the github settings and went down to Source and 
 Then the site will be publish.
 
 ## acknowlagement
-Code institute
+Code institute.
